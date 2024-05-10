@@ -1,0 +1,67 @@
+h3{
+	color: blue;
+	font-size:40px ;
+
+}
+
+.text1{
+	background:yellow;
+
+}
+.border{
+	border: 5px solid red ;
+}
+
+#head1{
+	font-size: 50px;
+}
+
+.h4{
+	color: blue;
+
+}
+
+h4{
+	color:green;
+
+}
+
+
+.wrapper{
+	width:60%;
+	margin:auto;
+	border: 5px solid #add;
+}
+
+lable{
+	font-size: 20px;
+
+}
+
+
+
+.first_name, .last_name, .email, .password{
+	width: 90%;
+    height: 25px;
+    padding: 10px;
+    font-size: 15
+}
+
+.message{
+	font-size: 18px;
+    padding: 10px;
+}
+
+table{
+	width:100% ;
+	border: 1px solid;
+}
+
+th, td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid;
+}
+td:hover{
+	background-color:#ddd;
+}
